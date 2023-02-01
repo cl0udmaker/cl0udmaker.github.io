@@ -4,6 +4,10 @@ main {
 	background: #485564;
 	color: #FAFAFA;
 }
+a {
+  color: #FAFAFA;
+  padding: 5px 10px;
+}
 
 .icons-social a {
 	color: #FAFAFA;
