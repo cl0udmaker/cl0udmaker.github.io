@@ -55,13 +55,6 @@ main > .tagline {
 	font-weight: 100;
 }
 
-main > .message 
-	a:link {
-	  color: #FAFAFA; 
-	  background-color: transparent; 
-	  text-decoration: underline;
-	}
-
 .icons-social i {
 	padding: 10px;
 }
