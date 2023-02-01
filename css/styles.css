@@ -55,7 +55,7 @@ main > .tagline {
 	font-weight: 100;
 }
 
-main > .body {
+main > .message {
 	a:link {
 	  color: white; 
 	  background-color: transparent; 
