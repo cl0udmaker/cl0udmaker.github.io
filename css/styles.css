@@ -57,25 +57,25 @@ main > .tagline {
 
 main > .message {
 	a:link {
-	  color: white; 
+	  color: #FAFAFA; 
 	  background-color: transparent; 
 	  text-decoration: underline;
 	}
 
 	a:visited {
-	  color: white;
+	  color: #FAFAFA;
 	  background-color: transparent;
 	  text-decoration: underline;
 	}
 
 	a:hover {
-	  color: black;
+	  color: #FAFAFA;
 	  background-color: transparent;
 	  text-decoration: none;
 	}
 
 	a:active {
-	  color: white;
+	  color: #FAFAFA;
 	  background-color: transparent;
 	  text-decoration: underline;
 	}
