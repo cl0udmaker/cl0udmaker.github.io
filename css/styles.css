@@ -45,6 +45,7 @@ main {
 
 main > .intro {
 	font-family: Goudy Bookletter 1911';
+	font-variant-caps: small-caps;
 	font-size: 3.75em;
 	font-weight: 600;
 }
